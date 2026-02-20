@@ -1,0 +1,14 @@
+C:\ooap\9lab8\9lab8\bin\Debug\net8.0\9lab8.exe
+C:\ooap\9lab8\9lab8\bin\Debug\net8.0\9lab8.deps.json
+C:\ooap\9lab8\9lab8\bin\Debug\net8.0\9lab8.runtimeconfig.json
+C:\ooap\9lab8\9lab8\bin\Debug\net8.0\9lab8.dll
+C:\ooap\9lab8\9lab8\bin\Debug\net8.0\9lab8.pdb
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\9lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\9lab8.AssemblyInfoInputs.cache
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\9lab8.AssemblyInfo.cs
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\9lab8.csproj.CoreCompileInputs.cache
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\9lab8.dll
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\refint\9lab8.dll
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\9lab8.pdb
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\9lab8.genruntimeconfig.cache
+C:\ooap\9lab8\9lab8\obj\Debug\net8.0\ref\9lab8.dll
